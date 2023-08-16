@@ -1,4 +1,4 @@
-e the centos:centos7 image as the base
+# Use the centos:centos7 image as the base
 FROM centos:centos7
 
 # Set the maintainer label
